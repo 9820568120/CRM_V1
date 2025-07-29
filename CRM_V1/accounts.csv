@@ -1,0 +1,96 @@
+account,sector,year_established,revenue,employees,office_location,subsidiary_of,employee_id,account_id,employee_name,employee_address,email,phone_number,employee_city,employee_state
+Acme Corporation,technolgy,1996,1100.04,2822,United States,,825,787,Smith,8457 Wright Mountains Apt. 377,jsmith1@customer.com,555-190-3233,Henderson,Kentucky
+Betasoloin,medical,1999,251.41,495,United States,,1746,701,Johnson,082 Cline Mountains Apt. 353,jjohnson2@customer.com,555-525-8357,Los Angeles,California
+Betatech,medical,1986,647.18,1185,Kenya,,1718,698,Williams,457 John Mills,jwilliams3@customer.com,555-933-4447,Fort Lauderdale,Florida
+Bioholding,medical,2012,587.34,1356,Philipines,,708,722,Brown,5726 Barnett Meadow,jbrown4@customer.com,555-897-0326,Los Angeles,California
+Bioplex,medical,1991,326.82,1016,United States,,1164,675,Jones,050 Nicholas Views,jjones5@customer.com,555-762-5836,Concord,North Carolina
+Blackzim,retail,2009,497.11,1588,United States,,68,704,Garcia,207 Rebecca Brook,jgarcia6@customer.com,555-582-5709,Seattle,Washington
+Bluth Company,technolgy,1993,1242.32,3027,United States,Acme Corporation,1075,672,Miller,9983 Jesse Landing,jmiller7@customer.com,555-195-1985,Fort Worth,Texas
+Bubba Gump,software,2002,987.39,2253,United States,,1711,728,Davis,76627 Waters Estate Apt. 016,jdavis8@customer.com,555-416-2205,Madison,Wisconsin
+Cancity,retail,2001,718.62,2448,United States,,1116,755,Rodriguez,378 Anderson Manors Suite 859,jrodriguez9@customer.com,555-880-8679,West Jordan,Utah
+Cheers,entertainment,1993,4269.9,6472,United States,Massive Dynamic,1752,810,Martinez,12710 Vanessa Rest,jmartinez10@customer.com,555-283-4564,San Francisco,California
+Codehow,software,1998,2714.9,2641,United States,Acme Corporation,192,761,Hernandez,511 Rebecca Tunnel,jhernandez11@customer.com,555-279-8494,Fremont,Nebraska
+Condax,medical,2017,4.54,9,United States,,640,629,Lopez,6386 Kenneth Crossing Apt. 295,jlopez12@customer.com,555-284-2248,Philadelphia,Pennsylvania
+Conecom,technolgy,2005,1520.66,1806,United States,,1679,776,Gonzalez,7269 Jason Trace Apt. 392,jgonzalez13@customer.com,555-224-3907,Orem,Utah
+Dalttechnology,software,2013,98.79,96,United States,Bubba Gump,1094,712,Wilson,826 Wilson Shore Suite 549,jwilson14@customer.com,555-651-0888,Los Angeles,California
+dambase,marketing,1995,2173.98,2928,United States,Inity,1590,599,Anderson,01029 Williams Fort,janderson15@customer.com,555-928-1269,Philadelphia,Pennsylvania
+Domzoom,entertainment,1998,217.87,551,United States,,1660,723,Thomas,668 Christine Junctions,jthomas16@customer.com,555-764-7525,Houston,Texas
+Doncon,technolgy,2010,587.72,1501,United States,,1747,719,Taylor,8875 Lisa Forest,jtaylor17@customer.com,555-432-3796,Richardson,Texas
+Donquadtech,technolgy,1992,1712.68,3194,United States,Acme Corporation,153,660,Moore,778 Lee Streets Apt. 658,jmoore18@customer.com,555-585-8964,Houston,Texas
+Dontechi,software,1982,4618,10083,United States,,429,683,Jackson,301 Dalton Forge,jjackson19@customer.com,555-981-0349,Naperville,Illinois
+Donware,marketing,1999,1197.44,2570,United States,,511,661,Martin,6163 Strickland Point,jmartin20@customer.com,555-648-6689,Los Angeles,California
+Fasehatice,retail,1990,4968.91,7523,United States,,309,819,Peter,9285 Jenkins Cove Apt. 104,jpeter21@customer.com,555-298-7370,Melbourne,Florida
+Faxquote,telecommunications,1995,1825.82,5595,United States,Sonron,777,700,Victoria,36852 Elizabeth Vista Apt. 421,jvictoria22@customer.com,555-777-8852,Eagan,Minnesota
+Finhigh,finance,2006,1102.43,1759,United States,,1946,698,Raymond,3257 Clements Locks,jraymond23@customer.com,555-453-6709,Westland,Michigan
+Finjob,employment,1988,2059.9,3644,United States,,1674,712,Julia,47132 Harrison Harbor,jjulia24@customer.com,555-366-5637,Dover,Delaware
+Funholding,finance,1991,2819.5,7227,United States,Golddex,482,714,Scott,815 Matthew Manor Suite 768,jscott25@customer.com,555-181-1932,New Albany,Indiana
+Ganjaflex,retail,1995,5158.71,17479,Japan,,877,610,Grace,9733 Vincent Village Suite 665,jgrace26@customer.com,555-019-0071,New York City,New York
+Gekko & Co,retail,1990,2520.83,3502,United States,,128,722,Dennis,91076 Alyssa Lodge,jdennis27@customer.com,555-137-9377,Troy,New York
+Genco Pura Olive Oil Company,retail,2007,894.33,1635,Italy,,775,627,Evelyn,4806 Anderson Bypass Suite 402,jevelyn28@customer.com,555-069-0197,Los Angeles,California
+Globex Corporation,technolgy,2000,1223.72,2497,Norway,,1536,766,Gregory,637 David Crossing,jgregory29@customer.com,555-887-3481,Chicago,Illinois
+Gogozoom,telecommunications,2007,86.68,187,United States,Sonron,140,739,Anna,5193 Rice Lane Suite 596,janna30@customer.com,555-563-7565,Gilbert,Arizona
+Golddex,finance,2008,52.5,165,United States,,1884,850,Walter,94953 Joshua Walks,jwalter31@customer.com,555-033-4018,Springfield,Virginia
+Goodsilron,marketing,2000,2952.73,5107,United States,,1874,783,Rose,USNS Thornton,jrose32@customer.com,555-244-5569,New York City,New York
+Green-Plus,services,2003,692.19,1922,United States,,1310,751,Patrick,3175 Smith Manor Apt. 034,jpatrick33@customer.com,555-666-4228,Jackson,Michigan
+Groovestreet,retail,2003,223.8,299,United States,,1689,637,Judith,13675 Julie Falls Suite 105,jjudith34@customer.com,555-779-8995,Memphis,Tennessee
+Hatfan,services,1982,792.46,1299,United States,,379,765,Henry,47485 Jennifer Forge Suite 862,jhenry35@customer.com,555-150-0658,Houston,Texas
+Hottechi,technolgy,1997,8170.38,16499,Korea,,34,737,Christina,7474 Nicole Estates,jchristina36@customer.com,555-589-6120,Houston,Texas
+Initech,telecommunications,1994,6395.05,20275,United States,,822,793,Douglas,480 Brian Extensions Suite 696,jdouglas37@customer.com,555-318-4273,Decatur,Alabama
+Inity,marketing,1986,2403.58,8801,United States,,1499,662,Maria,1341 Wilson Bridge,jmaria38@customer.com,555-479-9998,San Francisco,California
+Isdom,medical,2002,3178.24,4540,United States,,1780,666,Harold,2441 Andrew Ville Suite 660,jharold39@customer.com,555-535-1841,Durham,North Carolina
+Iselectrics,technolgy,2011,527.11,1428,United States,Acme Corporation,1806,822,Nicole,USCGC Oneal,jnicole40@customer.com,555-386-3801,Chicago,Illinois
+J-Texon,retail,1989,1388.67,3583,United States,,811,741,Alexander,3375 Stephanie Tunnel,jalexander41@customer.com,555-334-9898,Columbia,South Carolina
+Kan-code,software,1982,11698.03,34288,United States,,1844,706,Megan,498 John Circles Apt. 383,jmegan42@customer.com,555-923-9373,Rochester,Minnesota
+Kinnamplus,retail,2004,702.72,1831,United States,,1852,685,Samuel,Unit 8378 Box 6960,jsamuel43@customer.com,555-963-8196,Houston,Texas
+Konex,technolgy,1980,7708.38,13756,United States,,1231,842,Dorothy,9551 Michael Light Apt. 400,jdorothy44@customer.com,555-967-4371,Los Angeles,California
+Konmatfix,marketing,1985,375.43,1190,United States,,970,770,Frank,9784 Doyle Valley,jfrank45@customer.com,555-004-8102,Minneapolis,Minnesota
+Labdrill,medical,1985,2741.37,9226,United States,,381,675,Sophia,9065 Wong Path Suite 885,jsophia46@customer.com,555-596-0484,Portland,Oregon
+Lexiqvolax,medical,2004,1618.89,3889,United States,,1134,568,Lawrence,22035 Thomas Island Suite 759,jlawrence47@customer.com,555-934-7865,New York City,New York
+Massive Dynamic,entertainment,1989,665.06,1095,United States,,1296,788,Alice,16131 Alexander Island,jalice48@customer.com,555-612-2827,San Francisco,California
+Mathtouch,marketing,1984,3027.46,9516,Jordan,,1880,771,Arthur,558 Schmidt Corner Suite 843,jarthur49@customer.com,555-400-4816,Saint Paul,Minnesota
+Nam-zim,services,1987,405.59,1179,Brazil,Warephase,322,829,Ruth,16069 Delgado Lodge Apt. 834,jruth50@customer.com,555-930-8392,Chicago,Illinois
+Newex,services,1991,1012.72,3492,Germany,,461,784,Philip,08865 Rice Inlet,jphilip51@customer.com,555-092-6976,Rochester,Minnesota
+Ontomedia,employment,1997,882.12,2769,United States,,1165,797,Diana,994 Strickland Land,jdiana52@customer.com,555-202-2321,Aurora,Colorado
+Opentech,finance,1994,355.23,853,United States,,1448,850,Roger,5133 Brown Pike,jroger53@customer.com,555-886-3894,Charlotte,North Carolina
+Plexzap,retail,2001,2437.85,4874,United States,,1288,634,Natalie,823 Brandy Squares Apt. 065,jnatalie54@customer.com,555-662-5380,Orland Park,Illinois
+Plusstrip,entertainment,2002,349.81,315,United States,,1178,693,Benjamin,0403 Fritz Village Apt. 040,jbenjamin55@customer.com,555-918-6271,New York City,New York
+Plussunin,retail,2003,1419.98,4018,United States,,1391,631,Virginia,4222 Diaz Trafficway,jvirginia56@customer.com,555-531-0721,Urbandale,Iowa
+Rangreen,technolgy,1987,2938.67,8775,Panama,,838,763,Bruce,46957 Gomez Alley Suite 999,jbruce57@customer.com,555-965-3685,Columbus,Ohio
+Rantouch,telecommunications,1994,1188.42,3015,United States,,54,696,Madison,968 Ryan Squares,jmadison58@customer.com,555-316-5957,Seattle,Washington
+Ron-tech,medical,1992,3922.42,6837,United States,,1452,660,Adam,8881 Morris Ferry Apt. 972,jadam59@customer.com,555-164-7552,Bristol,Tennessee
+Rundofase,technolgy,1983,1008.06,1238,United States,,1602,717,Abigail,35361 Brown Ferry Suite 796,jabigail60@customer.com,555-576-1157,Wilmington,Delaware
+Scotfind,software,1996,6354.87,16780,United States,Bubba Gump,1938,795,Gerald,5165 Sloan Parks,jgerald61@customer.com,555-807-4823,Houston,Texas
+Scottech,marketing,2012,45.39,100,United States,Inity,1492,786,Lauren,4262 David Road,jlauren62@customer.com,555-128-8807,Bloomington,Illinois
+Silis,medical,1994,2818.38,6290,United States,,688,760,Keith,0798 Kathleen Lake Apt. 238,jkeith63@customer.com,555-792-0539,Phoenix,Arizona
+Singletechno,retail,1996,2214.94,5374,United States,,749,674,Isabella,"PSC 0261, Box 2658",jisabella64@customer.com,555-123-4149,Los Angeles,California
+Sonron,telecommunications,1999,1699.85,5108,United States,,643,697,Terry,615 Lang Light,jterry65@customer.com,555-245-3046,Columbus,Ohio
+Stanredtax,finance,1987,1698.2,3798,United States,,1219,688,Jane,7806 Robert Turnpike,jjane66@customer.com,555-503-4760,Roseville,California
+Statholdings,employment,1997,291.27,586,United States,,1198,820,Wayne,45663 Daniels Mall,jwayne67@customer.com,555-809-3735,Philadelphia,Pennsylvania
+Streethex,retail,1988,1376.8,1165,Belgium,,898,566,Amy,21404 Daniel Knolls Suite 259,jamy68@customer.com,555-268-3976,San Francisco,California
+Sumace,retail,2000,167.89,493,Romania,,882,612,Ralph,38300 Moss Mountains,jralph69@customer.com,555-039-4112,Independence,Missouri
+Sunnamplex,marketing,2008,894.37,1593,Poland,,348,719,Cynthia,7076 Deborah Plaza,jcynthia70@customer.com,555-249-4491,Pasadena,California
+The New York Inquirer,medical,1996,439.21,792,United States,,633,743,Smith,4958 Kerr Shore Suite 797,jsmith71@customer.com,555-260-1649,Newark,Ohio
+Toughzap,retail,1995,332.43,799,United States,,1493,765,Johnson,Unit 1710 Box 2005,jjohnson72@customer.com,555-030-1759,Franklin,Wisconsin
+Treequote,telecommunications,1988,5266.09,8595,United States,Sonron,1161,823,Williams,USS Fields,jwilliams73@customer.com,555-126-7689,Scottsdale,Arizona
+Umbrella Corporation,finance,1998,2022.14,5113,United States,,217,744,Brown,1986 Acosta Heights Apt. 029,jbrown74@customer.com,555-119-6935,San Jose,California
+Vehement Capital Partners,finance,1993,646.1,883,United States,Golddex,1877,714,Jones,9225 Duncan Dale,jjones75@customer.com,555-032-0549,Seattle,Washington
+Warephase,services,1997,2041.73,5276,United States,,668,747,Garcia,05614 Courtney Street,jgarcia76@customer.com,555-831-7733,Seattle,Washington
+Xx-holding,finance,1993,7537.24,20293,United States,,533,677,Miller,877 Chloe Rue Suite 010,jmiller77@customer.com,555-713-8738,Edmond,Oklahoma
+Xx-zobam,entertainment,1989,3838.39,8274,United States,,203,776,Davis,37159 Warren Mill Suite 699,jdavis78@customer.com,555-213-6332,Los Angeles,California
+Y-corporation,employment,1983,2871.35,9561,United States,,1738,696,Rodriguez,3826 Fisher Stravenue Apt. 829,jrodriguez79@customer.com,555-676-3901,Philadelphia,Pennsylvania
+Yearin,retail,2005,2261.05,3851,United States,,713,691,Martinez,550 Brandon Loaf,jmartinez80@customer.com,555-761-1610,Carlsbad,New Mexico
+Zathunicon,retail,2010,71.12,144,United States,,1631,740,Hernandez,USNS Graham,jhernandez81@customer.com,555-104-5650,Seattle,Washington
+Zencorporation,technolgy,2011,40.79,142,China,,1487,727,Lopez,1245 Heath Falls,jlopez82@customer.com,555-100-8488,San Antonio,Texas
+Zoomit,entertainment,1992,324.19,978,United States,,1265,748,Gonzalez,6538 Ebony Tunnel,jgonzalez83@customer.com,555-630-0957,Los Angeles,California
+Zotware,software,1979,4478.47,13809,United States,,370,655,Wilson,99656 William Junctions Apt. 908,jwilson84@customer.com,555-642-8378,Chicago,Illinois
+Zumgoity,medical,1984,441.08,1210,United States,,1014,729,Anderson,1838 Katherine Keys,janderson85@customer.com,555-666-3252,Houston,Texas
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
